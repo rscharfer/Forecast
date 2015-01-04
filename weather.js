@@ -4,7 +4,7 @@ var https = require('https');
 var gmaps = require('googlemaps');
 
 //API KEY for Forecast.io /* Insert you personal key */
-var API_KEY = "e4fec0a55bc8ac271616f9477dff1f15";
+var API_KEY = "enter your api key here";
 // Takes one US Zip Code, City, or Address input
 var zipcode = process.argv.slice(2);
 
